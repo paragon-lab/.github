@@ -1,4 +1,4 @@
-![Logo (Dark)](./logo_dark.png)
+![Logo](./logo.png)
 
 For more information see our [group website](http://paragon.cs.northwestern.edu/).
 
