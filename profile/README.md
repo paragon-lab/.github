@@ -1,5 +1,5 @@
-![Logo (Dark)](./logo_dark.png#gh-dark-mode-only)
-![Logo (Light)](./logo_light.png#gh-light-mode-only)
+![Logo (Dark)](https://github.com/paragon-lab/.github/blob/main/profile/logo_dark.png#gh-dark-mode-only)
+![Logo (Light)](https://github.com/paragon-lab/.github/blob/main/profile/logo_light.png#gh-light-mode-only)
 
 For more information see our [group website](http://paragon.cs.northwestern.edu/).
 
