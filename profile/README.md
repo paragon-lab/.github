@@ -2,7 +2,7 @@
 ![Logo (Light)](https://github.com/paragon-lab/.github/blob/main/profile/logo_light.png#gh-light-mode-only)
 
 We are a Computer Science reaserch group at Northwestern University, led by [Nikos Hardavellas](https://users.cs.northwestern.edu/~hardav/),
-foucing on energy-efficient high-performance parallel computing at all scales through cross-layer design: from emerging devices and circuits, to computer 
+foucing on energy-efficient high-performance parallel computing at all scales through cross-layer design; from emerging devices and circuits, to computer 
 architecture, compilers, runtimes, operating systems, and applications. 
 
 For more information please see our [group website](http://paragon.cs.northwestern.edu/).
